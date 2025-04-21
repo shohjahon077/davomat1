@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(1668637290_4554.gif);
+}
+
+div {
+    border: 1px solid black;
+    border-radius: 20px;
+    
+    margin: 40%;
+    width:400px;
+    height: 400px;
+    background-color: antiquewhite;
+}
+
+a {
+
+    font-size: 40px;
+    text-align: center;
+}
