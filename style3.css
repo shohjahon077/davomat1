@@ -11,15 +11,32 @@ body {
 div {
     border: 1px solid black;
     border-radius: 20px;
-    
-    margin: 40%;
+    margin-left: 38%;
+    margin-top: 10%;
     width:400px;
     height: 400px;
     background-color: antiquewhite;
 }
 
-a {
+#tugma {
+    margin-top: 28%;
+    padding: 35px 45px ;
+    background-color: black;
+    margin-left: 24px;
+    color: aliceblue;
+    border-radius: 10px;
+}
 
-    font-size: 40px;
+#tugma2 {
+    margin-top: 28%;
+    padding: 35px 45px ;
+    background-color: black;
+    color: aliceblue;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+
+h1 {
     text-align: center;
+    padding-top: 30px;
 }

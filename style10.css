@@ -22,6 +22,11 @@ img {
     margin: 20px;
 }
 
+#rang1 {
+    color: rgb(0, 26, 255);
+
+}
+
 span {
     position: absolute;
     text-align: center;
@@ -58,21 +63,16 @@ li {
     
 }
 
-table {
-    border: 1px solid black;
-    border-collapse: collapse;
-    width: 900px;
-    height: 600px;
-
-}
-
 #a1 :hover {
     transform: scaleX(1.1);
     transition: 2s;
 }
 
-#rang1 {
-    color: rgb(0, 26, 255);
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 900px;
+    height: 600px;
 
 }
 
@@ -110,7 +110,7 @@ span {
     padding-left: 5%;
 }
 
-#xafta4 {
+#Xafta28 {
     font-size: 30px;
     color: blue;
 }
